@@ -1,6 +1,6 @@
 # J.A.R.V.I.S - Just A Rather Very Intelligent System
 
-#### Created and Tested on Linux with Python 2.7
+#### Created and Tested on Linux with Python 3.x
 
 An attempt to make a very simple, Personal Assistant that understands speech as well as text input and is capable of performing tasks other than conversing.
 This project is based on AIML 1.0 and uses pyaiml for using the AIML interpreter in python. AIML, is based on pattern matching and this project does not implement any sort of machine learning or language processing.
@@ -120,7 +120,7 @@ Individual packages listed as follows-
     `pip install pyalsaaudio`
 
 - ### ttsx: (Offline Text to Speech Service)
-    `pip install pyttsx`
+    `pip install pyttsx3`
 
 - ### Optional for Google Text to Speech :
    + #### gTTS: (Google Text to Speech service)
